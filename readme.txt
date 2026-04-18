@@ -76,7 +76,7 @@ Monk: being my second redesign, i remember jumping through hoops to figure out h
 
 White Mage: not much to say here. a lot of people already headcanon this design as female, even though i don't think it was the designers' intention. that said, i gave her some tasseled braids, inspired a bit by the FFT female WM design, which i think are cute and characteristic.
 
-Black Mage: similarly to the white mage, the black mage kinda comes off as genderless. regardless, i took some cues from FF5 in giving her some hair dangling from the shadows, and while i couldn't use the moon motif from FF5 cause Magus already does that, i did give her a little hat bauble.
+Black Mage: similar to the white mage, the black mage kinda comes off as genderless. regardless, i took some cues from FF5 in giving her some hair dangling from the shadows, and while i couldn't use the moon motif from FF5 cause Magus already does that, i did give her a little hat bauble.
 
 Red Mage: i've always had an affection for the FF1 red mage's design and mechanics, even if they were a little silly and ineffectual. i tend to identify with "combat mage" archetypes sometimes, i think for this reason. in any case i gave her a lot of my sensibility here, with a cute skirt and a somewhat more vogue approach to her hat, which now has a band holding the feather in place. consulting FF5 red mage lenna's design helped me figure out some of the proportions. 
 
