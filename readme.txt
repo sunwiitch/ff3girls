@@ -2,7 +2,7 @@ hi. i'm sunwitch. thanks for trying my hack :)
 
 just wanted to give a rundown of how to patch this thing, what this is all about and maybe flap my gums a bit about my thoughts on the job designs and how they turned out. you can ignore the latter part, but it's included for those curious. 
 
-before all that though, i ultimately owe my ability to do this to tavuntu for their NES ROM graphics editor, PPUX. this made the whole process so much more feasible, so i wanted to express some major gratitude. PPUX is in development progress, and may be found on romhacking.net (https://www.romhacking.net/utilities/1871/) or itch.io (https://tavuntu.itch.io/ppux). thank you so much!
+before all that though, i ultimately owe my ability to do this to tavuntu for their NES ROM graphics editor, PPUX. this made the whole process so much more feasible, so i wanted to express some major gratitude. PPUX is in beta development, and may be found on romhacking.net (https://www.romhacking.net/utilities/1871/) or itch.io (https://tavuntu.itch.io/ppux). thank you so much!
 
 
 == patching == (skip this part if you're familiar with how to apply IPS patches and have the whole translation part of things under control)
